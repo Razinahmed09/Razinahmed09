@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razin Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-https://www.linkedin.com/in/razin-ahmed-a365a5255/
+            <center> https://www.linkedin.com/in/razin-ahmed-a365a5255/ </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razinahmed09&label=Profile%20views&color=0e75b6&style=flat" alt="razinahmed09" /> </p>
 
