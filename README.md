@@ -76,7 +76,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=razinahmed09&theme=flat&no-frame=true&margin-w=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=razinahmed09&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
